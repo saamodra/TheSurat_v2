@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Aplikasi Surat</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="stylesheet" href="4/united/bootstrap.css" media="screen">
+    <link rel="stylesheet" href="_assets/css/custom.min.css">
+    <link rel="stylesheet" type="text/css" href="_vendor/font-awesome/css/font-awesome.min.css">
+    <script type="text/javascript">
+      $(document).ready(function () {
+       
+      window.setTimeout(function() {
+          $(".fade").fadeTo(1000, 0).slideUp(1000, function(){
+              $(this).remove(); 
+          });
+      }, 3000);
+       
+      });
+  </script>
+  </head>
+  <body>
+	<div class="container-fluid" id="container">
+	    <div class="col-lg-12" id="myTable">
+	            	          <table class="table-responsive">
+	            <tr>
+	              <td align="center" colspan="3"><h2>SMK Negeri 1 Jenangan</h2></td>
+	            </tr>
+	            <tr>
+	              <td align="center" valign="top" colspan="3"><h6>Jl. Niken Gandini No. 98, Setono, Jenangan</h6></td>
+	            </tr>
+	            <tr>
+					<td colspan="3" align="center" style="vertical-align: middle;"><h4>Data Jenis Surat</h4></td>
+				</tr> 
+	          </table>
+	          
+							<table class="table table-hover" border="1">
+								<thead>
+								<tr>
+									<th style="background: #3A82C1; color: #fff; border: none;">No.</th>
+									<th style="background: #3A82C1; color: #fff; border: none;">Jenis</th>
+									<th style="background: #3A82C1; color: #fff; border: none;">Keterangan</th>
+								</tr>
+								</thead>
+								<tbody>
+									<tr>
+													<td>1</td>
+													<td>Surat Dinas</td>
+													<td>Surat Dinas</td>
+												  </tr>
+											<tr>
+													<td>2</td>
+													<td>Surat Rahasia</td>
+													<td>Surat Rahasia</td>
+												  </tr>
+											<tr>
+													<td>3</td>
+													<td>Surat Pribadi</td>
+													<td>Surat Pribadi</td>
+												  </tr>
+											<tr>
+													<td>4</td>
+													<td>Surat Resmi</td>
+													<td>Surat Resmi</td>
+												  </tr>
+											<tr>
+													<td>5</td>
+													<td>Surat Tidak Resmi</td>
+													<td>Surat Tidak Resmi</td>
+												  </tr>
+											<tr>
+													<td>6</td>
+													<td>Surat Ijin</td>
+													<td>Surat Ijin</td>
+												  </tr>
+											<tr>
+													<td>7</td>
+													<td>Surat Test</td>
+													<td>Test</td>
+												  </tr>
+											<tr>
+													<td>8</td>
+													<td>Surat A</td>
+													<td>Surat A</td>
+												  </tr>
+																			</tbody>
+							</table>
+
+	</div>
+</div>	<script src="_vendor/jquery/dist/jquery.min.js"></script>
+    <script src="_vendor/popper.js/dist/umd/popper.min.js"></script>
+    <script src="_vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="_assets/js/custom.js"></script>
+  </body>
+</html>

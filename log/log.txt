@@ -1,0 +1,56 @@
+[2018-16-05:03:58:20] Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:20] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:20] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:21] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:24] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:41] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:53] Restore Database (admin@gmail.com)
+
+[2018-16-05:03:58:53] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:59:04] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-16-05:03:59:09] Buka Halaman Instansi (admin@gmail.com)
+
+[2018-16-05:03:59:11] Buka Halaman Tambah Instansi (admin@gmail.com)
+
+[2018-16-05:03:59:15] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-16-05:03:59:16] Buka Halaman Tambah Jenis Surat (admin@gmail.com)
+
+[2018-16-05:03:59:19] Buka Halaman Tambah Jenis Surat (admin@gmail.com)
+
+[2018-16-05:03:59:19] insert into jenis(jenis, keterangan) values ('dsadsa','saddsa')
+
+[2018-16-05:03:59:19] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-16-05:03:59:23] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:59:33] Restore Database (admin@gmail.com)
+
+[2018-16-05:03:59:33] Buka Halaman Restore Database (admin@gmail.com)
+
+[2018-16-05:03:59:35] Buka Halaman Jenis (admin@gmail.com)
+
+[2018-16-05:04:09:14] User (admin@gmail.com) Logout
+
+[2021-01-01:05:07:07] Login User (admin@gmail.com)
+
+[2021-01-01:05:07:12] Buka Halaman User (admin@gmail.com)
+
+[2021-01-01:05:07:14] Buka Halaman Jenis (admin@gmail.com)
+
+[2021-01-01:05:07:15] Buka Halaman Surat Keluar (admin@gmail.com)
+
+[2021-01-01:05:07:16] Buka Halaman Laporan Instansi (admin@gmail.com)
+
+[2021-01-01:05:07:17] Buka Halaman Laporan Jenis (admin@gmail.com)
+
+[2021-01-01:05:07:19] Buka Halaman Laporan Lokasi (admin@gmail.com)
+
