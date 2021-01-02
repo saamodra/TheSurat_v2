@@ -10,19 +10,19 @@ if ((isset($_POST['add']))) {
 	write_log($insert);
 	mysqli_query($con2, 'insert into log(userid, menu, ip, log) values ("'.$id_user.'","Bagian","'.$ip.'","'.$insert.'")');
 	if ($hasil) {
-		?><div class="alert alert-success" align="center">
+		?><div class="alert alert-success">
 			<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 			Data Berhasil Disimpan, <a href="index.php?file=bagian">Lihat Data</a>
 		</div><?php
 	} else {
-		?><div class="alert alert-danger" align="center">
+		?><div class="alert alert-danger">
 			<a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
 			Data Gagal Disimpan
 		</div><?php
 	}
 }
 ?>
-<div class="page-header" align="center">
+<div class="page-header">
 	<h3>Input Data Bagian</h3>
 </div>
 <div class="container">
